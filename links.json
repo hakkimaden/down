@@ -1,0 +1,14 @@
+{
+  "payloads": [
+    {
+      "name": "slnBul",
+      "url": "https://github.com/hakkimaden/down/raw/refs/heads/main/payload.bin",
+      "version": "1.0"
+    },
+    {
+      "name": "rarBul",
+      "url": "https://github.com/hakkimaden/down/raw/refs/heads/main/payload.bin",
+      "version": "2.1"
+    }
+  ]
+}
